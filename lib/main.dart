@@ -47,7 +47,7 @@ class _MyHomePageState extends State<MyHomePage> {
   }
 
   final _pageOptions = [
-    Home(),
+    const Home(),
     Center(child: Text('blank'),),
     Center(child: Text('blank'),),
     Center(child: Text('blank'),),
